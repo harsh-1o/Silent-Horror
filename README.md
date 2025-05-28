@@ -23,9 +23,11 @@ This wasn’t just a coding project—it was a prompt-powered adventure 🚀 tha
 Download the Code:
 
 Option 1 (Git Clone): If you have Git installed, open your terminal or command prompt and run:
-git clone [YOUR_REPOSITORY_URL_HERE]
-cd silent-horror-game # Or whatever your repo name is
+```bash
+git clone [https://github.com/harsh-1o/Silent-Horror]
+cd Silent-Horror
+```
 
 Option 2 (Direct Download): Go to the GitHub repository page, click the green "Code" button, and select "Download ZIP." Once downloaded, extract the ZIP file to your desired location.
 
-Open in Browser: Navigate to the folder where you cloned or extracted the game files. Locate the Silent_Horror.html file (or src/Silent_Horror.html if you put the main file in a src folder) and simply double-click it. Your default web browser will open the game.
+Open in Browser: Navigate to the folder where you cloned or extracted the game files. Locate the `Silent_Horror.html` file or `src/Silent_Horror.html` and simply double-click it. Your default web browser will open the game.
