@@ -1,5 +1,6 @@
 # Silent-Horror
 
+
 🚀 My Learning Journey
 I built this game as a way to learn prompt engineering 🤖, using Gemini AI 🌟 as my coding sidekick. Instead of following tutorials, I crafted smart prompts, learned by doing, and turned my ideas into working code, visuals, and sound 🎮💡.
 
@@ -31,3 +32,8 @@ cd Silent-Horror
 Option 2 (Direct Download): Go to the GitHub repository page, click the green "Code" button, and select "Download ZIP." Once downloaded, extract the ZIP file to your desired location.
 
 Open in Browser: Navigate to the folder where you cloned or extracted the game files. Locate the `Silent_Horror.html` file or `src/Silent_Horror.html` and simply double-click it. Your default web browser will open the game.
+
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=harsh-1o.Silent-Horror&" />
+</div>
